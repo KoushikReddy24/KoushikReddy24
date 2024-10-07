@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Anumula Koushik Reddy</h1>
 <h3 align="center">A passionate DevOps Engineer from India</h3>
 
+<img align="right" width="400" src="https://imgs.search.brave.com/WQmV8nGQdrVMHYsFSHIp8k30EVXKbrgOM150LfqcXSM/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9yYXcu/Z2l0aHVidXNlcmNv/bnRlbnQuY29tL1Ro/ZUR1ZGVUaGF0Q29k/ZS9UaGVEdWRlVGhh/dENvZGUvbWFzdGVy/L0Fzc2V0cy9EZXZl/bG9wZXIuZ2lm.gif" alt="coding">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikreddy24&label=Profile%20views&color=0e75b6&style=flat" alt="koushikreddy24" /> </p>
 
 - 🔭 I’m currently working as a **DevOps Engineer Intern**
@@ -16,8 +18,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/koushik-anumula-akr24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik-anumula-akr24/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/koushik-reddy-anumula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="koushik-reddy-anumula" height="30" width="40" /></a>
-<a href="https://medium.com/koushik.24.anumula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="koushik.24.anumula" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23577940/koushik-reddy-anumula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23577940/koushik-reddy-anumula" height="30" width="40" /></a>
+<a href="https://medium.com/@koushik.24.anumula" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@koushik.24.anumula" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/koushikreddy24" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="koushikreddy24" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/koushik_reddy24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="koushik_reddy24" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/koushikreddy24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="koushikreddy24/" height="30" width="40" /></a>
