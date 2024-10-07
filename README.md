@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Kubernetes, AWS, Terraform, Docker, Linux**
 
-- 📫 How to reach me **koushik.24.anumula@gmail.com**
-
 - 📄 Know about my experiences [https://drive.google.com/file/d/1XOhiv_wGcmz7YTMYeHH7DkFNQ2Mv1EHT/view?usp=sharing](https://drive.google.com/file/d/1XOhiv_wGcmz7YTMYeHH7DkFNQ2Mv1EHT/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
