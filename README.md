@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=koushikreddy24&label=Profile%20views&color=0e75b6&style=flat" alt="koushikreddy24" /> </p>
 
-- 🔭 I’m currently working as a **DevOps Engineer Intern**
+- 🔭 I’m currently working as a **DevOps Engineer**
 
 - 📝 I regularly write articles on [https://medium.com/@koushik.24.anumula](https://medium.com/@koushik.24.anumula)
 
