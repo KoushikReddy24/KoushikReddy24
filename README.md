@@ -11,8 +11,6 @@
 
 - 💬 Ask me about **Kubernetes, AWS, Terraform, Docker, Linux**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1XOhiv_wGcmz7YTMYeHH7DkFNQ2Mv1EHT/view?usp=sharing](https://drive.google.com/file/d/1XOhiv_wGcmz7YTMYeHH7DkFNQ2Mv1EHT/view?usp=sharing)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/koushik-anumula-akr24/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="koushik-anumula-akr24/" height="30" width="40" /></a>
